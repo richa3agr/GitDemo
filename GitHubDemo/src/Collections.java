@@ -21,6 +21,7 @@ public class Collections {
 		while(itr.hasNext())
 		{
 		System.out.println(itr.next());
+		System.out.println("Test2");
 		}
 		
 		
