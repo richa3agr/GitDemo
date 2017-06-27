@@ -20,7 +20,7 @@ public class Collections {
 		
 		while(itr.hasNext())
 		{
-		System.out.println(itr);
+		System.out.println(itr.next());
 		}
 		
 		
